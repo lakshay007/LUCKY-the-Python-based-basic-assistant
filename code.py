@@ -282,5 +282,6 @@ while 1:
     elif str == "stop" or str == "stop my music":
         say("as you say")
         mymusic.stopsong()
+        #hello
 
 
